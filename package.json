@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^22.12.0"
+  },
+  "name": "mern_crash_course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
